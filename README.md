@@ -2,7 +2,7 @@
 
 A web app that helps people **find nearby community support** — hospitals, clinics, food banks, shelters, and hotels/hostels — using live, real-world location data. It also includes a small AI assistant that understands what kind of help someone needs just from a sentence they type.
 
-🔗 **Live Demo:** _add link here once GitHub Pages is enabled_
+🔗 **Live Demo:** [_add link here once GitHub Pages is enabled_](https://amruta-dotcom.github.io/smart-community-builder/)
 
 ![Community Builder preview](./images/hero_illustration_1773080503146.png)
 
@@ -55,8 +55,6 @@ smart-community-builder/
 ├── requirements.txt      # Python dependencies (see below)
 └── README.md
 ```
-
-> ⚠️ **Note:** The current file is named `index2.html`. Rename it to `index.html` so it works as the default entry point (required for GitHub Pages), and make sure image paths still point to `images/...` after the rename.
 
 ## 🚀 Getting Started
 
