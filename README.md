@@ -47,7 +47,7 @@ An **AI Help Assistant** chat widget lets users type a plain-English description
 
 ```
 smart-community-builder/
-├── index.html          # Main app (rename from index2.html — see note below)
+├── index.html          # Main app 
 ├── ai_server.py         # Flask + scikit-learn backend for the AI Help Assistant
 ├── images/
 │   ├── hero_illustration_1773080503146.png
